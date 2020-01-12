@@ -1,0 +1,19 @@
+*{
+	border: 1px solid lightgrey;
+}
+
+li a{
+	color: red;
+}
+
+h3 + ul{
+	border: 2px solid red;
+}
+
+a[href="http://google.com"]{
+	background: blue;
+}
+
+ul:nth-of-type(3){
+	background:  darkred;
+}

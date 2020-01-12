@@ -1,0 +1,21 @@
+h1{
+	color:#85286F;
+
+	border:5px dashed purple;
+}
+
+li{
+	color: rgb(144,50,100);
+}
+
+h4{
+	color: rgba(0,255,52,.3);
+
+	background: rgb(255,100,88);
+}
+
+body{
+	background: url(https://images.unsplash.com/photo-1548097160-627fd636ee56?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
