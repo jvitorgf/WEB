@@ -1,3 +1,3 @@
 # Web
 
-abcedfg
+Repositório para arquivos relacionados ao desenvolvimento WEB
