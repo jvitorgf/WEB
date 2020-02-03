@@ -1,3 +1,3 @@
 # Web
 
-Repositório para arquivos relacionados ao estudo desenvolvimento WEB
+Repositório para arquivos relacionados ao estudo de desenvolvimento WEB
