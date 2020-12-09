@@ -5,3 +5,21 @@
 	margin: 0 auto 0 auto;
 	text-align: justify;
 }
+
+
+.style{
+	background-color: blue;
+}
+.style:hover{
+	background-color: yellow;
+	color: white;
+}
+
+.cf{
+	color: white;
+	width: 50%;
+	height: 400px;
+	background-color:blue;
+	margin: 0 auto 0 auto;
+	text-align: justify;
+}
